@@ -1,0 +1,32 @@
+aid: glitterly
+name: Glitterly
+description: "Image generation API"
+url: https://developers.glitterly.app
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Glitterly
+    description: "Image generation API"
+    humanURL: https://developers.glitterly.app
+    baseURL: https://developers.glitterly.app
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://developers.glitterly.app
+common:
+  - type: Website
+    url: https://developers.glitterly.app
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
