@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developers.glitterly.app
 common:
+  - type: DomainSecurity
+    url: security/glitterly-domain-security.yml
   - type: Website
     url: https://developers.glitterly.app
   - type: PublicAPIsListing
