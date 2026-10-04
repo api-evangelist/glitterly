@@ -39,7 +39,6 @@ apis:
   - name: Glitterly
     description: "Image generation API"
     humanURL: https://developers.glitterly.app
-    baseURL: https://developers.glitterly.app
     tags:
       - Development
     properties:
